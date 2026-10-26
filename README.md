@@ -1,4 +1,13 @@
 # FRUIT NINJA :kiwi_fruit:
+
+## Piloto automático visual
+
+Abra o jogo por um servidor local e clique em **Ativar IA**. O piloto começa a
+partida, procura frutas e bombas nos pixels do canvas e corta as frutas usando
+a espada do jogo. O botão pausa a automação; quando uma rodada termina, a IA
+inicia outra automaticamente e mostra a pontuação acumulada e o recorde. A
+pontuação e as vidas de cada rodada seguem as regras originais. Como o jogo não
+possui vitória ou fase final, o objetivo é acumular pontos continuamente.
 **Fruit Ninja** - the most popular fruit-slicing game in the world! This game is built completely using the **p5js** JavaScript library.
 
 
