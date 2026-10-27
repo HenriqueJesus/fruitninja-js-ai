@@ -12,20 +12,22 @@ possui vitória ou fase final, o objetivo é acumular pontos continuamente.
 
 
 ## GETTING STARTED :pencil:
-To start playing:
-  - Clone the repository 
-    - Clone or download the repository **'Fruit-Ninja'** by clicking on the Clone or Download button
-    - Open the 'index.html' file and start playing!
-    
-    **or**
 
-  - Visit the link: [https://verma-anushka.github.io/Fruit-Ninja/](https://verma-anushka.github.io/Fruit-Ninja/)
+Requires Node.js and npm. In the project folder, run once:
 
-    **or**
-  
-  - You can also find **Fruit Ninja** and many more cool games at the link: 
-    [https://verma-anushka.github.io/Gaming-Zone/](https://verma-anushka.github.io/Gaming-Zone/)
+```powershell
+npm install
+```
 
+Start the local server whenever you want to play:
+
+```powershell
+npm start
+```
+
+Open http://localhost:8080 in your browser. Click **Ativar IA** to let the visual autoplayer play. Stop the server with `Ctrl+C`.
+
+This project is based on [verma-anushka/Fruit-Ninja](https://github.com/verma-anushka/Fruit-Ninja).
 
 ## HOW TO PLAY? :interrobang:
 **RULE 1:** Slice fruit :kiwi_fruit: <br/>
@@ -76,4 +78,3 @@ To start playing:
 
 ## CONTRIBUTE :shipit:
 Issues, PRs, and all your suggestions and discussions are very welcome!
-
